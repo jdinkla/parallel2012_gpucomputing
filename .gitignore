@@ -1,0 +1,11 @@
+*/Debug/*
+*/Release/*
+*/x64/*
+*/win32/*
+*/tmpxft*.*
+x64/*
+*.user
+*.ncb
+*.pdb
+*.suo
+*.dll
